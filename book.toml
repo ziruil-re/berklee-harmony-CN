@@ -1,0 +1,15 @@
+[book]
+title = "Berklee 和声学 1（中文翻译）"
+authors = ["Barrie Nettles（原著）"]
+description = "Berklee College of Music - Harmony 1 全书中文翻译"
+language = "zh"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/ziruil-re/berklee-harmony-CN"
+edit-url-template = "https://github.com/ziruil-re/berklee-harmony-CN/edit/main/src/{path}"

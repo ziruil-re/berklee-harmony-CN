@@ -1,0 +1,12 @@
+book/
+*.pdf
+.venv/
+.ruff_cache/
+ocr_output/
+images/pages/
+scripts/
+__pycache__/
+*.pyc
+# temp preview images from planning
+page_*_preview.png
+scan_p*.png
