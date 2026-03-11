@@ -29,4 +29,6 @@
 
 ## 在线阅读
 
+**电子书地址：<https://ziruil-re.github.io/berklee-harmony-CN/>**
+
 使用左侧目录导航各章节，或从第 1 章开始顺序阅读。
