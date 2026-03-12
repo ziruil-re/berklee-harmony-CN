@@ -10,7 +10,7 @@
 
 > 例如：从 C 向上数 C-D-E-F-G = 5，所以是五度 (5th)；C-D-E-F = 4，所以是四度 (4th)。
 
-![音程的基本计数](images/p020_score_1.png)
+![音程的基本计数](images/p020_score_3.png)
 
 ---
 
@@ -18,7 +18,7 @@
 
 大调音阶中，第一个音与其他各音之间的音程如下：
 
-![大调音阶中的音程](images/p020_score_2.png)
+![大调音阶中的音程](images/p020_score_4.png)
 
 | 音程 | 性质 |
 |------|------|
@@ -37,7 +37,7 @@
 
 当一个**大音程 (major interval)** 缩小半音（降低上方音或升高下方音）时，该音程变为**小音程 (minor interval)**：
 
-![小音程示例](images/p020_score_3.png)
+![小音程示例](images/p020_score_6.png)
 
 > 小二度 (minor 2nd)、小三度 (minor 3rd)、小六度 (minor 6th)、小七度 (minor 7th)
 
@@ -157,7 +157,7 @@
 
 - 增四度（三全音 = 3 个全音）→ 转位后变为减五度（仍然是三全音 = 3 个全音）
 
-![三全音转位](images/p025_score_1.png)
+![三全音转位](images/p025_score_2.png)
 
 ---
 

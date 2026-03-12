@@ -12,7 +12,7 @@
 
 最强的自然音阶根音进行是**下行五度**（即五度循环）：
 
-![下行五度根音进行示例](images/p039_score_1.png)
+![下行五度根音进行示例](images/p039_score_2.png)
 
 > Imaj7 → IVmaj7 → VII-7(♭5) → III-7 → VI-7 → II-7 → V7
 

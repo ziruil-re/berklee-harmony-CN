@@ -14,15 +14,11 @@
 
 > 例如：E — F、B — C、C — D♭、F♯ — G
 
-![自然半音示例](images/p011_score_2.png)
-
 ### 变化半音 (Chromatic Half Steps)
 
 **变化半音 (chromatic half step)** 是由两个同一字母名称的音构成的半音。
 
 > 例如：C — C♯、B♭ — B、F — F♯、A♭ — A
-
-![变化半音示例](images/p011_score_3.png)
 
 ---
 
@@ -31,8 +27,6 @@
 **全音 (whole step)** 等于两个半音的距离。在键盘上，全音是指从一个键跳过紧邻的一个键到达下一个键。
 
 > 例如：C — D、E — F♯、B♭ — C、A — B
-
-![全音示例](images/p011_score_4.png)
 
 ---
 
