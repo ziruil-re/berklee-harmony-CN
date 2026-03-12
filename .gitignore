@@ -3,7 +3,9 @@ book/
 .venv/
 .ruff_cache/
 ocr_output/
+ocr_output_h2/
 images/pages/
+images_h2/
 scripts/
 __pycache__/
 *.pyc

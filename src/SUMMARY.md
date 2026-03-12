@@ -4,7 +4,7 @@
 
 ---
 
-## 正文
+## Harmony 1 正文
 
 - [第 1 章 五线谱、谱号与加线](01-staff-clefs.md)
 - [第 2 章 变音记号与等音](02-accidentals.md)
@@ -22,7 +22,22 @@
 
 ---
 
-## 作业
+## Harmony 2 正文
+
+- [第 1 章 副属和弦](h2-01-secondary-dominants.md)
+- [第 2 章 和声节奏](h2-02-harmonic-rhythm.md)
+- [第 3 章 扩展属和弦](h2-03-extended-dominants.md)
+- [第 4 章 旋律分析](h2-04-melodic-analysis.md)
+- [第 5 章 声部进行](h2-05-voice-leading.md)
+- [第 6 章 小调和声](h2-06-minor-key-harmony.md)
+- [第 7 章 小调中的副属和弦与扩展属和弦](h2-07-secondary-dominants-minor.md)
+- [第 8 章 调式互换](h2-08-modal-interchange.md)
+- [第 9 章 关系 II-7 和弦](h2-09-related-ii7.md)
+- [第 10 章 布鲁斯](h2-10-blues.md)
+
+---
+
+## Harmony 1 作业
 
 - [作业 1–3：记谱基础](homework/hw-01-03.md)
 - [作业 4–8：变音记号](homework/hw-04-08.md)

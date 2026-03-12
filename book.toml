@@ -1,7 +1,7 @@
 [book]
-title = "Berklee 和声学 1（中文翻译）"
+title = "Berklee 和声学 1 & 2（中文翻译）"
 authors = ["Barrie Nettles（原著）"]
-description = "Berklee College of Music - Harmony 1 全书中文翻译"
+description = "Berklee College of Music - Harmony 1 & 2 全书中文翻译"
 language = "zh"
 src = "src"
 
